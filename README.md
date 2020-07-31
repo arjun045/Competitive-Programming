@@ -1,2 +1,2 @@
 # Competitive Programming
-Contains the codechef and hackerearth programs made..
+Contains the codechef and hackerearth programs and leetcode.
